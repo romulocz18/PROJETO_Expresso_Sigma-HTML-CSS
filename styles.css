@@ -1,14 +1,16 @@
-
-#logo 
+body
 {
-   
-    width: 20%;
+background-color: #C0C0C0;
+margin: 0;
 }
-
-.cor_de_cima 
+#part_1
 {
- background:#bfbfbf
-
+right: 10000px;
+width: 1350px;
+padding: 1px;
+padding: right 0;
+border: 5px solid black;
+margin : 0; 
 }
 
 .menu
@@ -17,6 +19,10 @@
   color : white;
   font-size:20px; 
   font-family: Verdana, Geneva, Tahoma, sans-serif, Helvetica, sans-serif;
+  padding: 1px;
+  right: 200px;
+  width:1350px;
+  border: 5px solid white;
 }
 
 h2
